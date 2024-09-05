@@ -1,0 +1,22 @@
+.inputBox{
+  font-size: 30px;
+}
+.inputDiv{
+margin: 20px;
+}
+.loginPage{
+  text-align: center;
+  background-color: antiquewhite;
+}
+.registerPage{
+  text-align: center;
+  background-color: antiquewhite;
+}
+.button{
+  margin: 5px;
+}
+
+.logutButton{
+  margin-left: 500px;
+  
+}
